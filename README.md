@@ -2,6 +2,7 @@ User Management API that includes features such as user
 registration, login, user profile management, and OTP-based login.
 
 #Tech Stack:
+
  Backend: Node.js (Express.js)
 
  Frontend: React.js
